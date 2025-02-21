@@ -53,8 +53,6 @@ dependencies {
     implementation(libs.androidx.navigation.runtime.android)
     implementation(libs.androidx.storage)
     implementation(libs.androidx.navigation.compose)
-    implementation(libs.androidx.room.compiler)
-    implementation(libs.androidx.room.external.antlr)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
